@@ -1,1 +1,1 @@
-# mi-primer-readme (suma de numeros), repositorio para practicar
+# mi-primer-readme (suma de numeros).
